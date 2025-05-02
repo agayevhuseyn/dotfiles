@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/huseyn/.config'
+let g:netrw_dirhist_7='/home/huseyn/.config/menus'
+let g:netrw_dirhist_6='/home/huseyn/.config/menus/applications-merged'
+let g:netrw_dirhist_5='/home/huseyn/.config/menus'
+let g:netrw_dirhist_4='/home/huseyn/.config/sublime-text'
+let g:netrw_dirhist_3='/home/huseyn/.config/i3'
+let g:netrw_dirhist_2='/home/huseyn/beforemodulelang'
+let g:netrw_dirhist_1='/home/huseyn/bash-files'
+let g:netrw_dirhist_0='/home/huseyn/seal/examples'
+let g:netrw_dirhist_9='/home/huseyn/test'
