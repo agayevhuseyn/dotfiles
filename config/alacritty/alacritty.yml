@@ -1,0 +1,9 @@
+font:
+  normal:
+    family: "JetBrainsMono Nerd Font Mono"
+    style: Regular
+  size: 14.0
+
+#colors:
+#  primary:
+#    background: '0x000000'
